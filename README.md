@@ -38,7 +38,7 @@ Thank you for your interest in this repository. I hope you find it helpful!
 Here are some additional details about the codes in this repository:
 
     The codes are written in Python 3.
-    The codes are well-commented and easy to understand.
+    The codes are well-commented and easy to understand, well, some of them are.
     The codes are tested and work correctly.
     The codes are free to use for any purpose.
 
